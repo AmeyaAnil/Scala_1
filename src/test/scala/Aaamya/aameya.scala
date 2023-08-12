@@ -1,0 +1,5 @@
+package Aaamya
+
+class aameya {
+
+}
